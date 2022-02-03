@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jarbis
-- 👀 I’m interested in Software development, particulary App development and Desktop, oh and also UI/UX design
+- 👀 I’m interested in Software development, particulary Web development and Mobile development, oh and also UI/UX design
 - 🌱 I’m currently learning Web development(Node and React)
 - 📫 How to reach me: joseangelb2371@gmail.com
 
